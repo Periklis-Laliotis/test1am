@@ -1,0 +1,98 @@
+# ==============================
+# Unity Core Folders
+# ==============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# ==============================
+# IDE / Editor Metadata
+# ==============================
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# ==============================
+# OS / System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Unity Cache / Generated Data
+# ==============================
+sysinfo.txt
+*.stacktrace
+*.crash
+*.log
+*.pid
+*.bak
+*.orig
+
+# ==============================
+# Auto-generated Lighting and Baked Data
+# ==============================
+Assets/**/Lightmap-*.exr
+Assets/**/LightingData.asset
+Assets/**/ReflectionProbe*.exr
+Assets/**/OcclusionCullingData.asset
+
+# ==============================
+# Asset Store or third-party packages (optional)
+# ==============================
+# Uncomment or modify these lines if you want to exclude commercial assets
+# Assets/NatureManufacture*/
+Assets/NatureManufacture Mountain*/
+# Assets/MicroSplat*/
+# Assets/Gaia*/
+
+# ==============================
+# Addressables / Streaming Assets
+# ==============================
+Assets/StreamingAssets/aa/
+Assets/StreamingAssets/buildreport/
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/catalog.json
+
+# ==============================
+# Visual Studio & JetBrains Rider
+# ==============================
+.vs/
+*.DotSettings.user
+
+# ==============================
+# Unity Collaborate & PlasticSCM
+# ==============================
+.collabignore
+PlasticSCM.lock
+PlasticWorkspace/
+.mergerep
+
+# ==============================
+# Unity Package Manager Cache
+# ==============================
+Packages/packages-lock.json.backup
+Packages/manifest-temp.json
+
+# ==============================
+# Local Configs (safe to regenerate)
+# ==============================
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/ProjectVersion.txt
